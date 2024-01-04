@@ -36,20 +36,10 @@ These instructions will get you a copy of the project up and running on your loc
    ```bash
    npm install
 
-   or
-
-  ```bash
-   yarn install
-
-2. **Run the development server**
+3. **Run the development server**
 
    ```bash
    Run the development server
-
-   or
-
-  ```bash
-   yarn dev
 
 Open http://localhost:3000 with your browser to see the result.
 
